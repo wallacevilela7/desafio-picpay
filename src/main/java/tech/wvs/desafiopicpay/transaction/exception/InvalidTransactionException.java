@@ -1,4 +1,4 @@
-package tech.wvs.desafiopicpay.exception;
+package tech.wvs.desafiopicpay.transaction.exception;
 
 public class InvalidTransactionException extends RuntimeException {
 
